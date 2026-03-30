@@ -42,7 +42,6 @@ Take a look at the HTML code below. Look at the `p` tag in the code. What tag is
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <!-- Your content goes here -->
     <h1>Hello, World!</h1>
     <p>Welcome to our HTML Adventures!</p>
     <script src="scripts.js"></script>
