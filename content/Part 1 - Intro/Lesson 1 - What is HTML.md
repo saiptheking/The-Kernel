@@ -49,3 +49,8 @@ Take a look at the HTML code below. Look at the `p` tag in the code. What tag is
 </body>
 </html>
 ```
+
+
+> [!Answer]- Answer
+> The `p` tag is nested under the `body` tag, nested under the `html` tag. We know this because it is indented from the body tag column. This tag displays standard text as a paragraph.
+
