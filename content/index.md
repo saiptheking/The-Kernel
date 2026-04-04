@@ -1,3 +1,1 @@
-# The HTML Chronicles
-
-Welcome to the HTML Chronicles! Here you will find a series of easy-to-follow tutorials on how to code HTML! Good luck and have fun on your HTML journey!
+Welcome to my digital garden, where I host my blog, tutorials, and anything else. Feel free to explore around!
