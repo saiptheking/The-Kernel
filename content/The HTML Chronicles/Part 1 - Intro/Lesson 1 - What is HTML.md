@@ -1,6 +1,6 @@
 ## The Foundation of the Internet
 
-HTML, standing for Hyper-Text Markup Language, is a coding language that can generate static content in a webpage. Utilizing a structure hierarchy of tags, it allows you to display static text and images on your webpage. HTML is essentially the foundation of the internet, creating the structure that other languages build on.
+HTML, standing for Hyper-Text Markup Language, is a coding language that can generate static content in a webpage. Utilizing a structure hierarchy of tags, it allows you to display static text and images on your webpage[[The HTML Chronicles/Part 1 - Intro/Lesson 1 - What is HTML#^abecdf\|*]] HTML is essentially the foundation of the internet, creating the structure that other languages build on.
 
 ## Investigation: The Tag Structure
 
@@ -53,3 +53,7 @@ Take a look at the HTML code below. Look at the `p` tag in the code. What tag is
 > [!Answer]- Answer
 > The `p` tag is nested under the `body` tag, nested under the `html` tag. We know this because it is indented from the body tag column. This tag displays standard text as a paragraph.
 
+
+
+---
+*See [[Blog/Notetaking/Hierarchy of Ideas]] ^abecdf
